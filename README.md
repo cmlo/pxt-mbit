@@ -1,6 +1,6 @@
 # mbit
 
-Extension for Yahboom_mbit_tr V3.0.4
+mbit 小車擴展積木 V3.0.4
 
 ## License
 
